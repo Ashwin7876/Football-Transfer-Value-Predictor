@@ -56,3 +56,7 @@ The players.csv file was collected using the football-data.org API.
 It contains Premier League team and squad information, including player names, positions, dates of birth, nationalities, and shirt numbers.
 Attribution: Data provided by football-data.org.
 This data was collected for educational and personal project purposes.
+
+## App Preview
+
+![Football Transfer Value Predictor](screenshot.png)
