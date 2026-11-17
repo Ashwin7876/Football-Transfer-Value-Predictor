@@ -1,0 +1,546 @@
+id,name,team,age,position
+3189,Kepa Arrizabalaga,Arsenal FC,32,Goalkeeper
+4832,David Raya,Arsenal FC,31,Goalkeeper
+74831,Illan Meslier,Arsenal FC,26,Goalkeeper
+6154,Ben White,Arsenal FC,29,Defence
+6317,Ezri Konsa,Arsenal FC,29,Defence
+23128,Gabriel Magalhães,Arsenal FC,28,Defence
+80171,William Saliba,Arsenal FC,25,Defence
+98816,Jurrien Timber,Arsenal FC,25,Defence
+125674,Piero Hincapié,Arsenal FC,24,Defence
+133512,Riccardo Calafiori,Arsenal FC,24,Defence
+172839,Cristhian Mosquera,Arsenal FC,22,Defence
+1684,Bruno Guimarães,Arsenal FC,28,Midfield
+4032,Eberechi Eze,Arsenal FC,28,Midfield
+7427,Martin Ødegaard,Arsenal FC,27,Midfield
+7935,Mikel Merino,Arsenal FC,30,Midfield
+8215,Declan Rice,Arsenal FC,27,Midfield
+115035,Martín Zubimendi,Arsenal FC,27,Midfield
+244120,Myles Lewis-Skelly,Arsenal FC,20,Midfield
+171,Kai Havertz,Arsenal FC,27,Offence
+8279,Viktor Gyökeres,Arsenal FC,28,Offence
+99813,Bukayo Saka,Arsenal FC,25,Offence
+144434,Christos Tzolis,Arsenal FC,24,Offence
+167720,Noni Madueke,Arsenal FC,24,Offence
+285128,Max Dowman,Arsenal FC,16,Offence
+302255,Maalik Hashi,Arsenal FC,18,
+7675,Marco Bizot,Aston Villa FC,35,Goalkeeper
+118920,Zion Suzuki,Aston Villa FC,24,Goalkeeper
+204460,James Wright,Aston Villa FC,21,Goalkeeper
+3492,Victor Nilsson-Lindelöf,Aston Villa FC,32,Defence
+8158,Aaron Wan-Bissaka,Aston Villa FC,28,Defence
+8235,Tyrone Mings,Aston Villa FC,33,Defence
+11644,Matty Cash,Aston Villa FC,29,Defence
+33109,Pau Torres,Aston Villa FC,29,Defence
+131035,Taylor Harwood-Bellis,Aston Villa FC,24,Defence
+131120,Ian Maatsen,Aston Villa FC,24,Defence
+151241,Matteo Ruggeri,Aston Villa FC,24,Defence
+276000,Modou Keba Cisse,Aston Villa FC,21,Defence
+3181,Leon Goretzka,Aston Villa FC,31,Midfield
+7817,Ross Barkley,Aston Villa FC,32,Midfield
+8346,Boubacar Kamara,Aston Villa FC,26,Midfield
+31941,Emiliano Buendía,Aston Villa FC,29,Midfield
+34646,John McGinn,Aston Villa FC,32,Midfield
+114024,Amadou Onana,Aston Villa FC,25,Midfield
+138034,João Gomes,Aston Villa FC,25,Midfield
+172899,Lamare Bogarde,Aston Villa FC,22,Midfield
+212309,Johan Manzambi,Aston Villa FC,21,Midfield
+7985,Tammy Abraham,Aston Villa FC,29,Offence
+152515,Nicolas Jackson,Aston Villa FC,25,Offence
+181901,Alejandro Garnacho,Aston Villa FC,22,Offence
+260718,Alysson,Aston Villa FC,20,Offence
+265040,Ibrahim M'Baye,Aston Villa FC,18,Offence
+280446,Brian Madjo,Aston Villa FC,17,Offence
+289528,George Hemmings,Aston Villa FC,19,Offence
+3141,Emiliano Martínez,Chelsea FC,34,Goalkeeper
+137544,Gabriel Slonina,Chelsea FC,22,Goalkeeper
+175910,Teddy Sharman-Lowe,Chelsea FC,23,Goalkeeper
+191068,Mike Penders,Chelsea FC,21,Goalkeeper
+8545,Wesley Fofana,Chelsea FC,25,Defence
+56628,Reece James,Chelsea FC,26,Defence
+82351,Maxence Lacroix,Chelsea FC,26,Defence
+151251,Pep Chavarría,Chelsea FC,28,Defence
+152498,Malo Gusto,Chelsea FC,23,Defence
+170440,Levi Colwill,Chelsea FC,23,Defence
+189477,Jorrel Hato,Chelsea FC,20,Defence
+206136,Marco Palestra,Chelsea FC,21,Defence
+209148,Aaron Anselmino,Chelsea FC,21,Defence
+249320,Josh Acheampong,Chelsea FC,20,Defence
+3320,Jordan Henderson,Chelsea FC,36,Midfield
+82140,Morgan Rogers,Chelsea FC,24,Midfield
+121103,Moisés Caicedo,Chelsea FC,25,Midfield
+144892,Cole Palmer,Chelsea FC,24,Midfield
+170261,Valentin Barco,Chelsea FC,22,Midfield
+172738,Romeo Lavia,Chelsea FC,22,Midfield
+301113,Mahdi Nicoll-Jazuli,Chelsea FC,16,Midfield
+2074,Pedro Neto,Chelsea FC,26,Offence
+3328,Danny Welbeck,Chelsea FC,35,Offence
+103125,João Pedro,Chelsea FC,25,Offence
+150599,Emanuel Emegha,Chelsea FC,23,Offence
+179460,Jamie Bynoe-Gittens,Chelsea FC,22,Offence
+229421,Geovany Quenda,Chelsea FC,19,Offence
+244778,Estevao,Chelsea FC,19,Offence
+3309,Jordan Pickford,Everton FC,32,Goalkeeper
+6180,Thomas King,Everton FC,31,Goalkeeper
+82135,Mark Travers,Everton FC,27,Goalkeeper
+3316,James Tarkowski,Everton FC,33,Defence
+7792,Ainsley Maitland-Niles,Everton FC,29,Defence
+7829,Michael Keane,Everton FC,33,Defence
+16165,Vitalii Mykolenko,Everton FC,27,Defence
+114120,Jarrad Branthwaite,Everton FC,24,Defence
+131569,Jake O'Brien,Everton FC,25,Defence
+24102,Christian Nørgaard,Everton FC,32,Midfield
+101076,James Garner,Everton FC,25,Midfield
+136284,Hayden Hackney,Everton FC,24,Midfield
+140194,Kiernan Dewsbury Hall,Everton FC,28,Midfield
+140269,Carlos Alcaraz,Everton FC,23,Midfield
+156552,Merlin Röhl,Everton FC,24,Midfield
+264281,Harrison Armstrong,Everton FC,19,Midfield
+3895,Jack Grealish,Everton FC,31,Offence
+124694,Brennan Johnson,Everton FC,25,Offence
+171995,Thierno Barry,Everton FC,26,Offence
+218525,Tyler Dibling,Everton FC,20,Offence
+244747,Briaden Graham,Everton FC,18,Offence
+250436,Tyrique George,Everton FC,20,Offence
+3174,Bernd Leno,Fulham FC,34,Goalkeeper
+8366,Benjamin Lecomte,Fulham FC,35,Goalkeeper
+300279,Alex Borto,Fulham FC,22,Goalkeeper
+1836,Timothy Castagne,Fulham FC,30,Defence
+2253,Joachim Andersen,Fulham FC,30,Defence
+3927,Antonee Robinson,Fulham FC,29,Defence
+3959,Ryan Sessegnon,Fulham FC,26,Defence
+8460,Kenny Tete,Fulham FC,31,Defence
+98750,Jorge Cuenca,Fulham FC,26,Defence
+123212,David Affengruber,Fulham FC,25,Defence
+146154,Calvin Bassey,Fulham FC,26,Defence
+3392,Alex Iwobi,Fulham FC,30,Midfield
+3965,Tom Cairney,Fulham FC,35,Midfield
+3995,Harrison Reed,Fulham FC,31,Midfield
+8973,Sander Berge,Fulham FC,28,Midfield
+85570,Emile Smith Rowe,Fulham FC,26,Midfield
+180563,Hugo Larsson,Fulham FC,22,Midfield
+192108,Shea Charles,Fulham FC,22,Midfield
+246418,Joshua King,Fulham FC,19,Midfield
+290848,César Palacios,Fulham FC,21,Midfield
+291727,Manuel Angel,Fulham FC,22,Midfield
+138036,Rodrigo Muniz,Fulham FC,25,Offence
+179122,Kevin Santos,Fulham FC,23,Offence
+179716,Oscar Bobb,Fulham FC,23,Offence
+217577,Jonah Kusi-Asare,Fulham FC,19,Offence
+217658,Gonzalo García,Fulham FC,22,Offence
+1795,Alisson Becker,Liverpool FC,34,Goalkeeper
+11629,Freddie Woodman,Liverpool FC,29,Goalkeeper
+84506,Giorgi Mamardashvili,Liverpool FC,26,Goalkeeper
+152579,Vítězslav Jaroš,Liverpool FC,25,Goalkeeper
+165154,Harvey Davies,Liverpool FC,23,Goalkeeper
+7383,Kostas Tsimikas,Liverpool FC,30,Defence
+7862,Joe Gomez,Liverpool FC,29,Defence
+7869,Virgil van Dijk,Liverpool FC,35,Defence
+28292,Ronald Araújo,Liverpool FC,27,Defence
+128954,Jeremie Frimpong,Liverpool FC,25,Defence
+171141,Milos Kerkez,Liverpool FC,22,Defence
+175865,Conor Bradley,Liverpool FC,23,Defence
+192563,Giovanni Leoni,Liverpool FC,19,Defence
+206127,Jeremy Jacquet,Liverpool FC,21,Defence
+3269,Wataru Endō,Liverpool FC,33,Midfield
+16347,Dominik Szoboszlai,Liverpool FC,26,Midfield
+19334,Florian Wirtz,Liverpool FC,23,Midfield
+45681,Alexis Mac Allister,Liverpool FC,27,Midfield
+81793,Ryan Gravenberch,Liverpool FC,24,Midfield
+214502,James McConnell,Liverpool FC,22,Midfield
+230517,Trey Nyoni,Liverpool FC,19,Midfield
+1780,Federico Chiesa,Liverpool FC,29,Offence
+6486,Alexander Isak,Liverpool FC,27,Offence
+7459,Cody Gakpo,Liverpool FC,27,Offence
+152454,Hugo Ekitike,Liverpool FC,24,Offence
+172762,Bradley Barcola,Liverpool FC,24,Offence
+244989,Lewis Koumas,Liverpool FC,21,Offence
+273423,Víctor Muñoz,Liverpool FC,23,Offence
+273453,Rio Ngumoha,Liverpool FC,18,Offence
+302268,Joshua Sonni-Lambie,Liverpool FC,18,
+6,Géronimo Rulli,Manchester City FC,34,Goalkeeper
+1731,Gianluigi Donnarumma,Manchester City FC,27,Goalkeeper
+3953,Marcus Bettinelli,Manchester City FC,34,Goalkeeper
+8642,Rayan Aït Nouri,Manchester City FC,25,Defence
+10183,Rúben Dias,Manchester City FC,29,Defence
+91512,Matheus Nunes,Manchester City FC,28,Defence
+118489,Marc Guéhi,Manchester City FC,26,Defence
+122266,Joško Gvardiol,Manchester City FC,24,Defence
+187202,Rico Lewis,Manchester City FC,21,Defence
+206743,Nico O'Reilly,Manchester City FC,21,Defence
+212868,Abdukodir Khusanov,Manchester City FC,22,Defence
+249196,Vitor Reis,Manchester City FC,20,Defence
+65,Mateo Kovačić,Manchester City FC,32,Midfield
+7888,Phil Foden,Manchester City FC,26,Midfield
+102603,Enzo Fernández,Manchester City FC,25,Midfield
+107330,Elliot Anderson,Manchester City FC,23,Midfield
+133242,Rayan Cherki,Manchester City FC,23,Midfield
+221819,Ayyoub Bouaddi,Manchester City FC,19,Midfield
+4417,Antoine Semenyo,Manchester City FC,26,Offence
+38101,Erling Haaland,Manchester City FC,26,Offence
+94091,Iliman Ndiaye,Manchester City FC,26,Offence
+99775,Jeremy Doku,Manchester City FC,24,Offence
+274216,Allan,Manchester City FC,22,Offence
+286950,Ryan McAidoo,Manchester City FC,18,Offence
+7913,Karl Darlow,Manchester United FC,36,Goalkeeper
+8035,Tom Heaton,Manchester United FC,40,Goalkeeper
+129946,Senne Lammens,Manchester United FC,24,Goalkeeper
+210730,Dermot Mee,Manchester United FC,23,Goalkeeper
+3326,Harry Maguire,Manchester United FC,33,Defence
+7549,Matthijs de Ligt,Manchester United FC,27,Defence
+7553,Noussair Mazraoui,Manchester United FC,28,Defence
+7898,Luke Shaw,Manchester United FC,31,Defence
+15905,Diogo Dalot,Manchester United FC,27,Defence
+46451,Lisandro Martínez,Manchester United FC,28,Defence
+181933,Leny Yoro,Manchester United FC,20,Defence
+210150,Harry Amass,Manchester United FC,19,Defence
+247644,Ayden Heaven,Manchester United FC,20,Defence
+3257,Bruno Fernandes,Manchester United FC,32,Midfield
+3658,Youri Tielemans,Manchester United FC,29,Midfield
+7599,Mason Mount,Manchester United FC,27,Midfield
+28549,Manuel Ugarte,Manchester United FC,25,Midfield
+166366,Andrey Santos,Manchester United FC,22,Midfield
+178604,Carlos Baleba,Manchester United FC,22,Midfield
+190797,Kobbie Mainoo,Manchester United FC,21,Midfield
+290139,Tyler Fletcher,Manchester United FC,19,Midfield
+3331,Marcus Rashford,Manchester United FC,29,Offence
+8626,Bryan Mbeumo,Manchester United FC,27,Offence
+30842,Matheus Cunha,Manchester United FC,27,Offence
+99731,Joshua Zirkzee,Manchester United FC,25,Offence
+124244,Benjamin Šeško,Manchester United FC,23,Offence
+133584,Amad Diallo,Manchester United FC,24,Offence
+211559,Patrick Dorgu,Manchester United FC,22,Offence
+289557,Shea Lacey,Manchester United FC,19,Offence
+302252,Daniel Armer,Manchester United FC,19,
+3310,Nick Pope,Newcastle United FC,34,Goalkeeper
+5048,Mark Gillespie,Newcastle United FC,34,Goalkeeper
+146753,Lukáš Horníček,Newcastle United FC,24,Goalkeeper
+191388,Ewen Jaouen,Newcastle United FC,20,Goalkeeper
+88,Fabian Schär,Newcastle United FC,34,Defence
+4870,Dan Burn,Newcastle United FC,34,Defence
+81082,Sven Botman,Newcastle United FC,26,Defence
+81816,Amar Dedić,Newcastle United FC,24,Defence
+142732,Malick Thiaw,Newcastle United FC,25,Defence
+168712,Valentino Livramento,Newcastle United FC,23,Defence
+191140,Lewis Hall,Newcastle United FC,22,Defence
+7798,Joe Willock,Newcastle United FC,27,Midfield
+10653,Joelinton,Newcastle United FC,30,Midfield
+111437,Jacob Ramsey,Newcastle United FC,25,Midfield
+171986,Nico Gonzalez,Newcastle United FC,24,Midfield
+191939,Lewis Miley,Newcastle United FC,20,Midfield
+251265,Sean Steur,Newcastle United FC,18,Midfield
+272943,Aladji Bamba,Newcastle United FC,20,Midfield
+612,Yoane Wissa,Newcastle United FC,30,Offence
+7934,Jacob Murphy,Newcastle United FC,31,Offence
+8076,Harvey Barnes,Newcastle United FC,28,Offence
+166376,Anthony Elanga,Newcastle United FC,24,Offence
+169324,William Osula,Newcastle United FC,23,Offence
+213511,Matias Fernandez-Pardo,Newcastle United FC,21,Offence
+249312,Bazoumana Touré,Newcastle United FC,20,Offence
+4292,Simon Moore,Sunderland AFC,36,Goalkeeper
+137691,Robin Roefs,Sunderland AFC,23,Goalkeeper
+150893,Melker Ellborg,Sunderland AFC,23,Goalkeeper
+3650,Thomas Meunier,Sunderland AFC,35,Defence
+6259,Luke O'Nien,Sunderland AFC,31,Defence
+6655,Kevin Danso,Sunderland AFC,28,Defence
+8371,Nordi Mukiele,Sunderland AFC,29,Defence
+37094,Reinildo,Sunderland AFC,32,Defence
+46491,Omar Alderete,Sunderland AFC,29,Defence
+117687,Trai Hume,Sunderland AFC,24,Defence
+121109,Daniel Ballard,Sunderland AFC,27,Defence
+161270,Aji Alese,Sunderland AFC,25,Defence
+264401,Dayann Methalie,Sunderland AFC,20,Defence
+3477,Granit Xhaka,Sunderland AFC,34,Midfield
+11362,Alan Browne,Sunderland AFC,31,Midfield
+99664,Enzo Le Fée,Sunderland AFC,26,Midfield
+171876,Habib Diarra,Sunderland AFC,22,Midfield
+182273,Noah Sadiki,Sunderland AFC,21,Midfield
+190817,Chris Rigg,Sunderland AFC,19,Midfield
+286011,Jules Ahoka,Sunderland AFC,20,Midfield
+83599,Wilson Isidor,Sunderland AFC,26,Offence
+97535,Brian Brobbey,Sunderland AFC,24,Offence
+165311,Abdoullah Ba,Sunderland AFC,23,Offence
+172275,Romaine Mundle,Sunderland AFC,23,Offence
+187065,Malick Fofana,Sunderland AFC,21,Offence
+187375,Nilson Angulo,Sunderland AFC,23,Offence
+192313,Chemsdine Talbi,Sunderland AFC,21,Offence
+290809,Jocelin Bi,Sunderland AFC,21,Offence
+7914,Martin Dúbravka,Tottenham Hotspur FC,37,Goalkeeper
+133229,Brandon Austin,Tottenham Hotspur FC,27,Goalkeeper
+255239,Antonín Kinský,Tottenham Hotspur FC,23,Goalkeeper
+7868,Andrew Robertson,Tottenham Hotspur FC,32,Defence
+7880,Tosin Adarabioyo,Tottenham Hotspur FC,29,Defence
+7994,Ben Davies,Tottenham Hotspur FC,33,Defence
+46046,Marcos Senesi,Tottenham Hotspur FC,29,Defence
+81037,Pedro Porro,Tottenham Hotspur FC,27,Defence
+98566,Jan Paul van Hecke,Tottenham Hotspur FC,26,Defence
+131177,Mickey van de Ven,Tottenham Hotspur FC,25,Defence
+170378,Destiny Udogie,Tottenham Hotspur FC,23,Defence
+177040,Archie Gray,Tottenham Hotspur FC,20,Defence
+1859,Dejan Kulusevski,Tottenham Hotspur FC,26,Midfield
+2041,Rodrigo Bentancur,Tottenham Hotspur FC,29,Midfield
+2563,Sandro Tonali,Tottenham Hotspur FC,26,Midfield
+3992,James Maddison,Tottenham Hotspur FC,29,Midfield
+119265,Conor Gallagher,Tottenham Hotspur FC,26,Midfield
+148289,Xavi Simons,Tottenham Hotspur FC,23,Midfield
+187216,Mateus Fernandes,Tottenham Hotspur FC,22,Midfield
+193622,Lucas Bergvall,Tottenham Hotspur FC,20,Midfield
+7878,Dominic Solanke,Tottenham Hotspur FC,29,Offence
+8133,Richarlison,Tottenham Hotspur FC,29,Offence
+66896,Omar Marmoush,Tottenham Hotspur FC,27,Offence
+77399,Mohammed Kudus,Tottenham Hotspur FC,26,Offence
+98978,Mykhailo Mudryk,Tottenham Hotspur FC,25,Offence
+146352,Sávio,Tottenham Hotspur FC,22,Offence
+171977,Mathys Tel,Tottenham Hotspur FC,21,Offence
+184999,Wilson Odobert,Tottenham Hotspur FC,21,Offence
+3308,Jack Butland,Hull City AFC,33,Goalkeeper
+6300,Dillon Phillips,Hull City AFC,31,Goalkeeper
+170812,Konstantinos Tzolakis,Hull City AFC,23,Goalkeeper
+3962,Matt Targett,Hull City AFC,31,Defence
+4058,Paddy McNair,Hull City AFC,31,Defence
+4425,John Egan,Hull City AFC,34,Defence
+5322,Lewie Coyle,Hull City AFC,31,Defence
+6451,Semi Ajayi,Hull City AFC,32,Defence
+82148,Ryan John Giles,Hull City AFC,26,Defence
+177169,Brooke Norton-Cuffy,Hull City AFC,22,Defence
+189278,Charlie Hughes,Hull City AFC,23,Defence
+190558,Nobel Mendy,Hull City AFC,22,Defence
+270733,Lucas Herrington,Hull City AFC,19,Defence
+4309,Regan Slater,Hull City AFC,27,Midfield
+11306,Kieran Dowell,Hull City AFC,29,Midfield
+49092,Hidemasa Morita,Hull City AFC,31,Midfield
+147914,Eliot Matazo,Hull City AFC,24,Midfield
+169326,Tim Iroegbunam,Hull City AFC,24,Midfield
+179603,Lucas Gourna-Douath,Hull City AFC,23,Midfield
+184963,Darko Gyabi,Hull City AFC,22,Midfield
+193627,Jens Hjertö-Dahl,Hull City AFC,21,Midfield
+230388,Óscar Zambrano,Hull City AFC,22,Midfield
+264301,Christos Mouzakitis,Hull City AFC,19,Midfield
+4359,Oliver McBurnie,Hull City AFC,30,Offence
+26444,Sorba Thomas,Hull City AFC,27,Offence
+30298,Abdülkadir Ömür,Hull City AFC,27,Offence
+80761,Joe Gelhardt,Hull City AFC,24,Offence
+149129,Mohamed Ali Cho,Hull City AFC,22,Offence
+192811,Elliot Stroud,Hull City AFC,24,Offence
+211740,Ilyas Ansah,Hull City AFC,21,Offence
+213033,Robinio Vaz,Hull City AFC,19,Offence
+213072,Mohamed Belloumi,Hull City AFC,24,Offence
+5315,Alex Cairns,Leeds United FC,33,Goalkeeper
+9438,Michael Zetterer,Leeds United FC,31,Goalkeeper
+153874,James Trafford,Leeds United FC,24,Goalkeeper
+3475,Nico Elvedi,Leeds United FC,30,Defence
+4184,Jayden Bogle,Leeds United FC,26,Defence
+5613,James Justin,Leeds United FC,28,Defence
+5714,Joe Rodon,Leeds United FC,29,Defence
+31531,Gabriel Gudmundsson,Leeds United FC,27,Defence
+74688,Jaka Bijol,Leeds United FC,27,Defence
+136721,Melvin Bard,Leeds United FC,25,Defence
+189153,Tarik Muharemović,Leeds United FC,23,Defence
+4955,Sean Longstaff,Leeds United FC,29,Midfield
+7815,Ethan Ampadu,Leeds United FC,26,Midfield
+49105,Ao Tanaka,Leeds United FC,28,Midfield
+65843,Anton Stach,Leeds United FC,27,Midfield
+75284,Ilia Gruev,Leeds United FC,26,Midfield
+113262,Brenden Aaronson,Leeds United FC,26,Midfield
+7839,Dominic Calvert-Lewin,Leeds United FC,29,Offence
+7892,Lukas Nmecha,Leeds United FC,27,Offence
+7974,Daniel James,Leeds United FC,28,Offence
+11777,Harry Wilson,Leeds United FC,29,Offence
+16058,Noah Okafor,Leeds United FC,26,Offence
+185178,Mateo Fernandez,Leeds United FC,23,Offence
+185882,Jean Bahoya,Leeds United FC,21,Offence
+3954,David Button,Ipswich Town FC,37,Goalkeeper
+4867,Christian Walton,Ipswich Town FC,30,Goalkeeper
+8011,Alex Palmer,Ipswich Town FC,30,Goalkeeper
+9814,Kjell Scherpen,Ipswich Town FC,26,Goalkeeper
+4017,Darnell Furlong,Ipswich Town FC,31,Defence
+8296,Issa Diop,Ipswich Town FC,29,Defence
+25650,Dara O'Shea,Ipswich Town FC,27,Defence
+34871,Cédric Kipré,Ipswich Town FC,29,Defence
+99120,Leif Davis,Ipswich Town FC,26,Defence
+125651,Jacob Greaves,Ipswich Town FC,26,Defence
+270889,Abdoul Ouattara,Ipswich Town FC,21,Defence
+5999,Jack Taylor,Ipswich Town FC,28,Midfield
+7566,Azor Matusiwa,Ipswich Town FC,28,Midfield
+11720,Exequiel Palacios,Ipswich Town FC,28,Midfield
+32938,Saša Lukić,Ipswich Town FC,30,Midfield
+37560,Florentino,Ipswich Town FC,27,Midfield
+140245,Marcelino Núñez,Ipswich Town FC,26,Midfield
+152437,Anis Mehmeti,Ipswich Town FC,25,Midfield
+168949,Julio Enciso,Ipswich Town FC,22,Midfield
+4158,Jack Clarke,Ipswich Town FC,25,Offence
+9053,Chuba Akpom,Ipswich Town FC,31,Offence
+44017,Daizen Maeda,Ipswich Town FC,29,Offence
+67893,Zian Flemming,Ipswich Town FC,28,Offence
+172632,Jaden Philogene-Bidace,Ipswich Town FC,24,Offence
+176628,Emersonn,Ipswich Town FC,22,Offence
+176777,Kasey McAteer,Ipswich Town FC,24,Offence
+187162,Abdul Issahaku,Ipswich Town FC,22,Offence
+230057,Sindre Egeli,Ipswich Town FC,20,Offence
+1299,John,Nottingham Forest FC,30,Goalkeeper
+3643,Matz Sels,Nottingham Forest FC,34,Goalkeeper
+81055,Steven Benda,Nottingham Forest FC,28,Goalkeeper
+1775,Nikola Milenković,Nottingham Forest FC,29,Defence
+3386,Ola Aina,Nottingham Forest FC,30,Defence
+22010,Daniel Muñoz,Nottingham Forest FC,30,Defence
+133765,Neco Williams,Nottingham Forest FC,25,Defence
+144361,Luca Netz,Nottingham Forest FC,23,Defence
+179782,Jair Paula,Nottingham Forest FC,21,Defence
+191730,Nicolò Savona,Nottingham Forest FC,23,Defence
+192637,Murillo,Nottingham Forest FC,24,Defence
+4091,Morgan Gibbs-White,Nottingham Forest FC,26,Midfield
+5435,Ryan Yates,Nottingham Forest FC,28,Midfield
+8307,Ibrahim Sangaré,Nottingham Forest FC,28,Midfield
+16344,Xaver Schlager,Nottingham Forest FC,29,Midfield
+46346,Nicolás Domínguez,Nottingham Forest FC,28,Midfield
+172956,James McAtee,Nottingham Forest FC,24,Midfield
+7816,Callum Hudson-Odoi,Nottingham Forest FC,25,Offence
+8057,Chris Wood,Nottingham Forest FC,34,Offence
+77641,Dan Ndoye,Nottingham Forest FC,26,Offence
+130668,Arnaud Kalimuendo,Nottingham Forest FC,24,Offence
+151095,Liam Delap,Nottingham Forest FC,23,Offence
+256339,Igor Jesus,Nottingham Forest FC,25,Offence
+5457,Dean Henderson,Crystal Palace FC,29,Goalkeeper
+6413,Remi Matthews,Crystal Palace FC,32,Goalkeeper
+8420,Walter Benítez,Crystal Palace FC,33,Goalkeeper
+813,Axel Disasi,Crystal Palace FC,28,Defence
+8065,Ben Chilwell,Crystal Palace FC,29,Defence
+9034,Takehiro Tomiyasu,Crystal Palace FC,27,Defence
+99856,Chris Richards,Crystal Palace FC,26,Defence
+137068,Tyrick Mitchell,Crystal Palace FC,27,Defence
+146986,Óscar Mingueza,Crystal Palace FC,27,Defence
+150948,Chadi Riad,Crystal Palace FC,23,Defence
+213425,Anan Khalaili,Crystal Palace FC,22,Defence
+260271,Jaydee Canvot,Crystal Palace FC,20,Defence
+263661,Honest Ahanor,Crystal Palace FC,18,Defence
+3737,Jefferson Lerma,Crystal Palace FC,32,Midfield
+6716,Daichi Kamada,Crystal Palace FC,30,Midfield
+8124,Will Hughes,Crystal Palace FC,31,Midfield
+74677,Cheick Doucouré,Crystal Palace FC,26,Midfield
+97536,Quinten Timber,Crystal Palace FC,25,Midfield
+191396,Adam Wharton,Crystal Palace FC,22,Midfield
+641,Jean-Philippe Mateta,Crystal Palace FC,29,Offence
+3638,Ismaïla Sarr,Crystal Palace FC,28,Offence
+7800,Eddie Nketiah,Crystal Palace FC,27,Offence
+11623,Dwight McNeil,Crystal Palace FC,26,Offence
+128710,Evann Guessand,Crystal Palace FC,25,Offence
+152505,Yeremi Pino,Crystal Palace FC,24,Offence
+179319,Darío Osorio,Crystal Palace FC,22,Offence
+213269,Jørgen Strand Larsen,Crystal Palace FC,26,Offence
+224618,Zavier Gozo,Crystal Palace FC,19,Offence
+4040,Jason Steele,Brighton & Hove Albion FC,36,Goalkeeper
+126870,Bart Verbruggen,Brighton & Hove Albion FC,24,Goalkeeper
+140203,Thomas McGill,Brighton & Hove Albion FC,26,Goalkeeper
+846,Olivier Boscagli,Brighton & Hove Albion FC,28,Defence
+4146,Pascal Struijk,Brighton & Hove Albion FC,27,Defence
+8259,Lewis Dunk,Brighton & Hove Albion FC,34,Defence
+9869,Ferdi Kadıoğlu,Brighton & Hove Albion FC,27,Defence
+61968,Michael Svoboda,Brighton & Hove Albion FC,28,Defence
+97505,Mats Wieffer,Brighton & Hove Albion FC,26,Defence
+142075,Maxim De Cuyper,Brighton & Hove Albion FC,25,Defence
+147891,Jaouen Hadjam,Brighton & Hove Albion FC,23,Defence
+185116,Costinha,Brighton & Hove Albion FC,26,Defence
+216835,Luka Vušković,Brighton & Hove Albion FC,19,Defence
+3974,Matt O'Riley,Brighton & Hove Albion FC,25,Midfield
+8273,Pascal Groß,Brighton & Hove Albion FC,35,Midfield
+145613,Yasin Ayari,Brighton & Hove Albion FC,23,Midfield
+178951,Diego Gómez,Brighton & Hove Albion FC,23,Midfield
+190851,Jack Hinshelwood,Brighton & Hove Albion FC,21,Midfield
+246670,Malick Yalcouyé,Brighton & Hove Albion FC,20,Midfield
+270273,Chema Andrés,Brighton & Hove Albion FC,21,Midfield
+29319,Femi Azeez,Brighton & Hove Albion FC,25,Offence
+81189,Georginio Rutter,Brighton & Hove Albion FC,24,Offence
+130809,Evan Ferguson,Brighton & Hove Albion FC,22,Offence
+132707,Kaoru Mitoma,Brighton & Hove Albion FC,29,Offence
+187482,Yankubah Minteh,Brighton & Hove Albion FC,22,Offence
+205531,Ibrahim Osman,Brighton & Hove Albion FC,21,Offence
+209504,Stefanos Tzimas,Brighton & Hove Albion FC,20,Offence
+260992,Promise Akinpelu,Brighton & Hove Albion FC,25,Offence
+264300,Charalampos Kostoulas,Brighton & Hove Albion FC,19,Offence
+279784,Zadok Yohanna,Brighton & Hove Albion FC,19,Offence
+4419,Ellery Balcombe,Brentford FC,27,Goalkeeper
+102046,Caoimhin Kelleher,Brentford FC,27,Goalkeeper
+144530,Hákon Rafn Valdimarsson,Brentford FC,25,Goalkeeper
+4426,Rico Henry,Brentford FC,29,Defence
+7720,Sepp van den Berg,Brentford FC,24,Defence
+16068,Kristoffer Ajer,Brentford FC,28,Defence
+101111,Aaron Hickey,Brentford FC,24,Defence
+101910,Keane Lewis-Potter,Brentford FC,25,Defence
+115642,Nathan Collins,Brentford FC,25,Defence
+193633,El Hadji Malick Diouf,Brentford FC,21,Defence
+204348,Michael Kayode,Brentford FC,22,Defence
+221783,Ji-soo Kim,Brentford FC,21,Defence
+227064,Jannik Schuster,Brentford FC,20,Defence
+245364,Benjamin Fredrick,Brentford FC,21,Defence
+7796,Josh Dasilva,Brentford FC,28,Midfield
+10000,Vitaly Janelt,Brentford FC,28,Midfield
+10194,Mathias Jensen,Brentford FC,30,Midfield
+24238,Mikkel Damsgaard,Brentford FC,26,Midfield
+150964,Mamadou Sangare,Brentford FC,24,Midfield
+151119,Fabio Carvalho,Brentford FC,24,Midfield
+171965,Antoni Milambo,Brentford FC,21,Midfield
+204421,Yegor Yarmolyuk,Brentford FC,22,Midfield
+8251,Callum Wilson,Brentford FC,34,Offence
+123286,Kevin Schade,Brentford FC,24,Offence
+138230,Thiago,Brentford FC,25,Offence
+150778,Jaidon Anthony,Brentford FC,26,Offence
+177305,Dango Ouattara,Brentford FC,24,Offence
+213296,Gustavo Gomes,Brentford FC,20,Offence
+213518,Kaye Furo,Brentford FC,19,Offence
+8079,Fraser Forster,AFC Bournemouth,38,Goalkeeper
+41381,Michele Di Gregorio,AFC Bournemouth,29,Goalkeeper
+121765,Đorđe Petrović,AFC Bournemouth,27,Goalkeeper
+8231,Adam Smith,AFC Bournemouth,35,Defence
+80765,Max Aarons,AFC Bournemouth,26,Defence
+82145,James Hill,AFC Bournemouth,24,Defence
+98745,Bafodé Diakité,AFC Bournemouth,25,Defence
+113335,Julian Araujo,AFC Bournemouth,25,Defence
+135482,Adrien Truffert,AFC Bournemouth,24,Defence
+180038,Juanlu,AFC Bournemouth,23,Defence
+183583,Julio Soler,AFC Bournemouth,21,Defence
+185610,Antonio Silva,AFC Bournemouth,23,Defence
+227046,Veljko Milosavljević,AFC Bournemouth,19,Defence
+3327,Lewis Cook,AFC Bournemouth,29,Midfield
+7561,Justin Kluivert,AFC Bournemouth,27,Midfield
+34495,Ryan Christie,AFC Bournemouth,31,Midfield
+77596,Tyler Adams,AFC Bournemouth,27,Midfield
+161088,Alex Scott,AFC Bournemouth,23,Midfield
+192316,Alex Toth,AFC Bournemouth,21,Midfield
+4321,David Brooks,AFC Bournemouth,29,Offence
+6396,Marcus Tavernier,AFC Bournemouth,27,Offence
+131260,Evanilson,AFC Bournemouth,27,Offence
+137047,Amine Adli,AFC Bournemouth,26,Offence
+169191,Daniel Jebbison,AFC Bournemouth,23,Offence
+176789,Ben Doak,AFC Bournemouth,20,Offence
+189369,Alvaro Rodriguez,AFC Bournemouth,22,Offence
+203356,Rayan,AFC Bournemouth,20,Offence
+204241,Eli Kroupi,AFC Bournemouth,20,Offence
+4418,Daniel Bentley,Coventry City FC,33,Goalkeeper
+5347,Ben Wilson,Coventry City FC,34,Goalkeeper
+171498,Carl Rushworth,Coventry City FC,25,Goalkeeper
+4015,Jake Bidwell,Coventry City FC,33,Defence
+4235,Luke Woolfenden,Coventry City FC,28,Defence
+4334,Ethan Pinnock,Coventry City FC,33,Defence
+6308,Jay Dasilva,Coventry City FC,28,Defence
+55048,Milan van Ewijk,Coventry City FC,26,Defence
+130044,Joel Latibeaudiere,Coventry City FC,26,Defence
+144782,Bobby Thomas,Coventry City FC,25,Defence
+169297,Aurele Amenda,Coventry City FC,23,Defence
+171509,Kaine Kesler,Coventry City FC,24,Defence
+286320,Stephen Mfuni,Coventry City FC,18,Defence
+6358,Matt Grimes,Coventry City FC,31,Midfield
+9623,Gustavo Hamer,Coventry City FC,29,Midfield
+24207,Victor Torp,Coventry City FC,27,Midfield
+24210,Frank Onyeka,Coventry City FC,28,Midfield
+83372,Josh Eccles,Coventry City FC,26,Midfield
+114123,Jack Rudoni,Coventry City FC,25,Midfield
+262187,Caleb Yirenkyi,Coventry City FC,20,Midfield
+6009,Ephron Mason-Clark,Coventry City FC,27,Offence
+6389,Brandon Thomas-Asante,Coventry City FC,27,Offence
+9218,Taiwo Awoniyi,Coventry City FC,29,Offence
+10076,Haji Wright,Coventry City FC,28,Offence
+80175,Yann Gboho,Coventry City FC,25,Offence
+113632,Tatsuhiro Sakamoto,Coventry City FC,30,Offence
+146122,Ellis Simms,Coventry City FC,25,Offence
+170394,Loum Tchaouna,Coventry City FC,23,Offence
+213712,Sidiki Cherif,Coventry City FC,19,Offence
